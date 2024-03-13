@@ -2,8 +2,8 @@
 
 I'm originally from Brazil but currently residing in Spain. 
 
-With 30 years old, I'm a front-end developer passionate for challenges, cleand codes and a good organization.
-I hold a degree from programming for Rocketseat and completed courses of area at Alura.
+At 30 years old, I'm a front-end developer passionate about challenges, clean code, and good organization. 
+I hold a degree in programming from Rocketseat and have completed additional courses in the field at Alura.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
