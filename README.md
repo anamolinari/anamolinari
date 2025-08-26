@@ -2,7 +2,7 @@
 
 I'm originally from Brazil but currently living in Spain. 
 
-At 30 years old, I'm a front-end developer passionate about challenges, clean code, and good organization. 
+At 31 years old, I'm a front-end developer passionate about challenges, clean code, and good organization. 
 I hold a degree in programming from Rocketseat and have completed additional courses in the field at Alura.
 
 <div style="display: inline_block"><br>
